@@ -1,0 +1,8 @@
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/controller/MemberController.java
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/util/Resources.java
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/model/Member.java
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/service/MemberRegistration.java
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/data/MemberRepository.java
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/rest/JaxRsActivator.java
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/rest/MemberResourceRESTService.java
+/home/emmanuel/bloomytech/samplemaven/src/main/java/org/jboss/as/quickstarts/kitchensink/data/MemberListProducer.java
